@@ -1,10 +1,50 @@
-h1 {
-    border-style: dotted;
-    border-width: thick;
-    border-color: blue;
+body {
+    background-color: #E9D8A6;
+}
+
+.banner {
+    background-color: #EE9B00;
+    height: 50px;
+    width: auto;
+    position: relative;
+}
+
+.navbar {
+    display: flex;
+    justify-content: center;
+}
+
+.nav-link {
+    display: flex;
+    text-align: center;
+    border: 1px;
+    border-radius: 50%;
+    margin: auto;
+    padding: auto;
+}
+
+.landing-page-intro h1{
+    display: inline;
+    justify-items: center;
+    align-items: center; 
+}
+
+.photo-div {
+    display: flex;
+    justify-content: center;
+}
+
+#profile-photo {
+    border-radius: 45%;
+}
+
+.navigation-description {
+    display: inline;
+    justify-content: center;
+    align-content: center;
+}
+
+#intro {
+    color: white;
+    background-color: #005F73;
 };
-h3 {
-    border-style: dotted;
-    border-width: thin;
-    border-color: blue;
-}; 

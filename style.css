@@ -8,6 +8,7 @@ body {
     width: auto;
     position: relative;
     border-radius: 20%;
+    display: center;
 }
 
 .navbar {

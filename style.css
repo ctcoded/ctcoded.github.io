@@ -48,3 +48,7 @@ body {
     color: white;
     background-color: #005F73;
 };
+
+#about-me {
+    border: 1px;
+}
